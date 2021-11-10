@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 10 08:39:05 WAT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017d-08c9-37ab-00000db684d8 
+on database directory memory:C:\Users\nagwah\sts\workspace-spring-tool-suite-4-4.12.0.RELEASE\titan-code\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/nagwah/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.9+11
+user.dir=C:\Users\nagwah\sts\workspace-spring-tool-suite-4-4.12.0.RELEASE\titan-code
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
